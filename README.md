@@ -1,4 +1,4 @@
-Hi 👋, I'm Ayushman</br>
+Hi 👋, I'm <b>Ayushman</b></br>
 🚀 Second-Year Engineering Student | CSE (AI & ML)</br>
 
 ## 🌐 Socials:
