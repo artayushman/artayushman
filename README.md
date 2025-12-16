@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi 👋, I'm Ayushman
 
-<!--
-**artayushman/artayushman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 First-Year Engineering Student | CSE (AI & ML)
 
-Here are some ideas to get you started:
+I’m a B.Tech CSE (AI & ML) student at Netaji Subhash Engineering College, passionate about learning by building, self-improvement, and exploring how technology can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+👨‍💻 About Me
+
+🎓 First-year engineering student under MAKAUT
+
+🤖 Interested in Artificial Intelligence, Machine Learning & Cloud
+
+💡 Believe in consistent growth over instant perfection
+
+🎥 Documenting my journey of self-improvement (academics, communication, creativity)
+
+🌱 Currently learning C, Python, DSA, web development
+
+
+
+---
+
+🛠 Skills & Technologies
+
+Programming:
+
+C
+
+Python
+
+HTML
+
+CSS
