@@ -1,42 +1,6 @@
 Hi 👋, I'm Ayushman
-
-
 🚀 Second-Year Engineering Student | CSE (AI & ML)
-
-
 I’m a B.Tech CSE (AI & ML) student at Netaji Subhash Engineering College, passionate about learning by building, self-improvement, and exploring how technology can solve real-world problems.
-
-
------------------------------------------------------------------
-👨‍💻 About Me
-
-🎓 Undergrad engineering student under MAKAUT
-
-
-🤖 Interested in Artificial Intelligence, Machine Learning & Cloud
-
-
-💡 Believe in consistent growth over instant perfection
-
-
-🎥 Documenting my journey of self-improvement (academics, communication, creativity)
-
-
-🌱 Currently learning C, Python, DSA, web development
-
-
-------------------------------------------------------------------
-🛠 Skills & Technologies
-Programming:
-
-C
-
-Python
-
-HTML
-
-CSS
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ayush.man_sah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayushman.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:02.ayushman@gmail.com) 
