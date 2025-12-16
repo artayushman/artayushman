@@ -1,6 +1,5 @@
 Hi 👋, I'm Ayushman</br>
 🚀 Second-Year Engineering Student | CSE (AI & ML)</br>
-I’m a B.Tech CSE (AI & ML) student at Netaji Subhash Engineering College, passionate about learning by building, self-improvement, and exploring how technology can solve real-world problems.</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ayush.man_sah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayushman.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:02.ayushman@gmail.com) 
